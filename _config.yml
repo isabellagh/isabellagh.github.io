@@ -1,11 +1,11 @@
 # Site settings
-author: isabella g henriques
-title: 
+author: Isabella G Henriques
+title: Sports to code
 header-img: img/home-bg.png
 email: isabellagh88@gmail.com
-copyright_name: isabella g henriques
+copyright_name: Isabella G Henriques
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Running for change
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  isabellagh
