@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sports to code"
-date:       2020-04-01 20:59:13 +0000
+date:       2020-04-01 16:59:14 -0400
 permalink:  sports_to_code
 ---
 
